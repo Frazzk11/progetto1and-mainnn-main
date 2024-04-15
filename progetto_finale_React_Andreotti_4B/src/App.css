@@ -1,0 +1,16 @@
+.wrapper {
+
+  max-width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  margin: auto;
+
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}

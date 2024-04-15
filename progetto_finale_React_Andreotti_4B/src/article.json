@@ -1,0 +1,56 @@
+[
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/1532image_sito_slide_it.png?v=",
+    "title": "The Speck & Asiago Burger",
+    "price": "6,99$",
+    "intro": "Hamburger 100% italiana con formaggio Asiago e Speck"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/1553image_sito_slide_it.png?v=",
+    "title": "Bacon King 3.0",
+    "price": "8,50$",
+    "intro": "Doppio Hamburger con bacon croccante e formaggio cheddar"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/570image_sito_slide_it.png?v=",
+    "title": "The Parmigiano Burger",
+    "price": "8,99$",
+    "intro": "Panino con ingredienti 100% italiani "
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/580image_sito_slide_it.png?v=",
+    "title": "Bacon King ",
+    "price": "8,70$",
+    "intro": "Triplo strato di hamburger con doppio bacon croccante, cheddar e maionese"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/596image_sito_slide_it.png?v=",
+    "title": "Chicken Bacon King",
+    "price": "6,50$",
+    "intro": "Pane croccante con semi di sesamo, carne di pollo fritta, bacon croccante e formaggio cheddar"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/595image_sito_slide_it.png?v=",
+    "title": "Crunchicken",
+    "price": "5,50$",
+    "intro": "Pollo con panatura croccante, pomodoro italiano, insalata e maionese"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/573image_sito_slide_it.png?v=",
+    "title": "Whopper",
+    "price": "6,99$",
+    "intro": "Pane croccante con semi di sesamo, hamburger di manzo, cipolle, pomodori e insalata"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/1315image_sito_slide_it.png?v=",
+    "title": "Bronx Steakhouse",
+    "price": "6,99$",
+    "intro": "Hamburger vegano, formaggio cheddar, cipolla croccante, insalata e maionese"
+  },
+  {
+    "image": "https://www.burgerking.it/assets/img/console/mo/products/585image_sito_slide_it.png?v=",
+    "title": "Triple Whopper",
+    "price": "7,99$",
+    "intro": "Triplo strato di hamburger con cetriolini sott'aceto, cipolla, pomodori ed insalata"
+  }
+]
